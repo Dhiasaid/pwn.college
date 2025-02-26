@@ -1,6 +1,6 @@
 # pwncollege
 
-Welcome to the pwncollege repository! This repository is dedicated to providing solutions to the challenges found on pwn.college. I will be sharing my progress and solutions, with the hope that they remain available for educational purposes. All of the challenges will be provided with their respective solvers.
+Welcome to my pwncollege repository! This repository is dedicated to providing solutions to the challenges found on pwn.college. I will be sharing my progress and solutions, with the hope that they remain available for educational purposes. All of the challenges will be provided with their respective solvers.
 
 ## Overview
 
