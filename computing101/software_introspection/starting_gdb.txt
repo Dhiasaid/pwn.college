@@ -1,0 +1,5 @@
+for this challenge just type gdb /challenge/debug-me
+and they will give you the secret number 
+then type /challenge/submit-number 842
+and it will get you the flag 
+
