@@ -1,0 +1,15 @@
+https://ike.mahaloz.re/1_introduction/introduction.html
+https://github.com/mytechnotalent/Reverse-Engineering
+https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about
+https://open.umn.edu/opentextbooks/textbooks/733
+https://squallygame.com/
+https://oooverflow.io/zero-is-you/
+https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart
+https://www.felixcloutier.com/x86/
+https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&index=2
+https://github.com/yrp604/rappel
+https://github.com/zardus/ctf-tools
+http://ref.x86asm.net/coder64.html
+https://www.felixcloutier.com/x86/
+file:///home/dhiasaid/Downloads/325383-sdm-vol-2abcd-dec-24-2.pdf
+

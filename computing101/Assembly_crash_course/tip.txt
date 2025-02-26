@@ -1,0 +1,5 @@
+do not forget each time you write your assembly code to convert it into an elf file 
+by typing as -o <your_ld>.o <your_code>.s
+then make it linkable by typing ld <your_program_name> <your_id>.o
+happy hacking 
+
