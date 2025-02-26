@@ -1,0 +1,6 @@
+for this challenge you have to do the following 
+strace /challenge/traceme
+you will get alarm(value)
+submit that value like this:
+./submit-number <value>
+then you'll get the flag

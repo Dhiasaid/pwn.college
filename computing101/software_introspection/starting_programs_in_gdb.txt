@@ -1,0 +1,5 @@
+for this challenge , type gdb /challenge/debug-me
+then type starti
+it will get you the flag
+then type /challenge/submit-number <secret_number>
+it will get you the flag
