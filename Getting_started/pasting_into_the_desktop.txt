@@ -1,0 +1,8 @@
+for this challenge , you got a token , open the terminal in the GUI desktop, and paste the token on the clipboard , and you'll get the flag 
+1. Click on the ▸ button on the left edge of the Desktop.
+2. Click on the Clipboard button. The Dojo's clipboard will appear!
+3. Overwrite the contents of the dojo's clipboard with the contents of your
+   system's clipboard (for example, Ctrl-A followed by Ctrl-V).
+4. Now the contents are in the dojo's clipboard!
+5. Paste the contents into the terminal (Right Click->Paste).
+

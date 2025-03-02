@@ -1,0 +1,4 @@
+this is so simple 
+just click on start , it will launch a terminal 
+and you will get the flag
+
