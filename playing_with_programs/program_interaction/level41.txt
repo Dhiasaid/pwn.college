@@ -1,0 +1,3 @@
+/bin/bash
+/bin/rev | /challenge/run 
+(write the password) 
