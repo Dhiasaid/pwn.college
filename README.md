@@ -15,15 +15,15 @@ I’ve managed to make significant progress in the following dojos:
     - Learn the basics of security and exploitation. 🚀
   
 - **Linux Luminarium:** 
-    - Challenges: 0/82
+    - Challenges: 82/82
     - Explore Linux-specific challenges and vulnerabilities. 🐧
 
 - **Computing 101:** 
-    - Challenges: 20/69
+    - Challenges: 69/69
     - A beginner-friendly set of challenges focusing on fundamental computing concepts. 🖥️
 
 - **Playing with Programs:** 
-    - Challenges: 0/255
+    - Challenges: 84/255
     - A wide range of challenges related to reverse engineering, buffer overflows, and more. 🛠️
 
 - **Intro to Cybersecurity:** 
@@ -46,7 +46,7 @@ I’ve managed to make significant progress in the following dojos:
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/yourusername/pwncollege.git
+    git clone https://github.com/Dhiasaid/pwn.college.git
     ```
 
 2. **Navigate to the challenge directory:**
@@ -63,9 +63,9 @@ I’ve managed to make significant progress in the following dojos:
 You can track my progress as I continue to work through the challenges. For now, I have completed the following:
 
 - **Getting Started:** 0/10
-- **Linux Luminarium:** 0/82
-- **Computing 101:** 20/69
-- **Playing with Programs:** 0/255
+- **Linux Luminarium:** 82/82
+- **Computing 101:** 69/69
+- **Playing with Programs:** 84/255
 - **Intro to Cybersecurity:** 0/155
 - **Program Security:** 0/161
 - **System Security:** 0/95
